@@ -3,7 +3,7 @@ Privacy (useful to prevent cyber-attacks)
 ## Objective: 
 Detecting malware in the APK files based on the permissions they ask for in their manifest file.
 ## Tools/technologies used: 
-WEKA, Flask, Visual Studio code
+WEKA, Flask, Visual Studio Code
 ## Algorithms/concepts: 
 SVM, KNN, Naïve Bayes, and feature selection methods.
 ## Learning outcomes: 
@@ -17,5 +17,12 @@ Four months
 
 
 ![image](https://github.com/Saiprasanth15/APK-Guardian/assets/112304380/009b3bd3-338e-4112-92a4-61796aedc6c5)  ![image](https://github.com/Saiprasanth15/APK-Guardian/assets/112304380/35566244-eca1-4c68-ae10-5e1851acef3a) ![image](https://github.com/Saiprasanth15/APK-Guardian/assets/112304380/be395fdb-a073-4d0e-9d28-40b08b712fee)
+
+![image](https://github.com/Saiprasanth15/APK-Guardian/assets/112304380/390d09b3-9de5-4363-8844-3595e6c71fcc)
+![image](https://github.com/Saiprasanth15/APK-Guardian/assets/112304380/2bc20f73-309f-4be7-aecf-3abeb0812890)
+![image](https://github.com/Saiprasanth15/APK-Guardian/assets/112304380/f127a564-b427-4564-98ad-44b647bc21cc)
+
+
+
 
 
