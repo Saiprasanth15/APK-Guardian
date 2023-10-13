@@ -14,3 +14,6 @@ Four months
 1) Engineered a web-based application for the detection of malware within APK files through a comprehensive analysis of the permissions specified in the manifest file, attained 83.7% accuracy and 82 F1-Score with the KNN algorithm and SFS method.
 
 2) Boosted malware detection and improved efficiency by providing a 60% faster and more automated method compared to traditional manual analysis, resulting in improved user retention.
+
+
+![image](https://github.com/Saiprasanth15/APK-Guardian/assets/112304380/009b3bd3-338e-4112-92a4-61796aedc6c5)
